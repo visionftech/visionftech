@@ -1,4 +1,5 @@
-## Hi there 👋
+## F-Tech Vision is an offline learning platform that has been providing top-notch, job-oriented education since 2024.
+## Our coaching center offers benefits such as interactive offline classrooms, a dedicated lab for practicing coding and IT solutions in Patna, Bihar.
 
 <!--
 **visionftech/visionftech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
