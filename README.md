@@ -18,7 +18,7 @@
     <hr>
     <div style="text-align: center;">
         <h2>
-            <a href="https://portfolio.ftechvision.com" style="text-decoration: none; color: inherit;">
+            <a href="https://services.ftechvision.com" style="text-decoration: none; color: inherit;">
                 F-Tech Vision IT Services & Consultancy <img src="./favicon.ico" alt="F-Tech Vision Logo" width="20" height="20">
             </a>
         </h2>
